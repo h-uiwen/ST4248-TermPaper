@@ -1,2 +1,2 @@
-# ST4248-TermPaper
-Predicting Obesity with Statistical Learning Methods
+# Predicting Obesity with Statistical Learning Methods
+
